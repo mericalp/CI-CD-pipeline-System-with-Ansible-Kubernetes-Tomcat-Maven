@@ -23,4 +23,5 @@ Requiremts: CI/CD pipeline system
 <img width="1248" alt="giris" src="https://github.com/mericalp/CI-CD-pipeline-System-Ansible-Kubernetes-Jenkins-Maven-Tomcat-Docker/assets/83503845/d67096be-98df-44fe-b6a2-38ac4650bac5">
 <img width="1382" alt="install jenkins " src="https://github.com/mericalp/CI-CD-pipeline-System-Ansible-Kubernetes-Jenkins-Maven-Tomcat-Docker/assets/83503845/480d9be5-9343-46e0-90b3-07a0ec9247eb">
 
+Plugin:
 
