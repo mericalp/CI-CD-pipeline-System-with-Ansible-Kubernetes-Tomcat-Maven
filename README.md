@@ -1,6 +1,9 @@
 # CI-CD-pipeline-System-Ansible-Kubernetes-Jenkins-Maven-Tomcat-Docker
 <img width="931" alt="Screenshot 2023-09-02 at 1 23 49 PM" src="https://github.com/mericalp/CI-CD-pipeline-System-Ansible-Kubernetes-Jenkins-Maven-Tomcat-Docker/assets/83503845/d2134255-89a1-4208-b624-44aaa0746449">
 
+
+https://mericalp.notion.site/CI-CD-pipeline-system-ab823b479c99438cacb7f7abb5ab3c55?pvs=4
+
 Requiremts: CI/CD pipeline system
 
 - EC2
