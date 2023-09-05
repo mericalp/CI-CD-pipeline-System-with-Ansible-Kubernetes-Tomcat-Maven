@@ -22,11 +22,12 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 
+<img width="500" alt="Screenshot 2023-09-02 at 1 23 49 PM" src="https://github.com/mericalp/CI-CD-pipeline-System-with-Ansible-Kubernetes-Tomcat-Maven/assets/83503845/baeb814f-aeac-4e4c-ab94-7cceb1a37450">
 
 Strt...
-
-<img width="931" alt="Screenshot 2023-09-02 at 1 23 49 PM" src="https://github.com/mericalp/CI-CD-pipeline-System-with-Ansible-Kubernetes-Tomcat-Maven/assets/83503845/2d9055c7-9691-42a5-a644-51f23ceffe1e">
-<img width="1248" alt="giris" src="https://github.com/mericalp/CI-CD-pipeline-System-with-Ansible-Kubernetes-Tomcat-Maven/assets/83503845/74986bd6-775f-4f08-8ac7-a649cbdf7a53">
-<img width="1382" alt="install jenkins " src="https://github.com/mericalp/CI-CD-pipeline-System-with-Ansible-Kubernetes-Tomcat-Maven/assets/83503845/435a31b8-ed69-4c02-8d69-8e21905da549">
+<img width="1000" alt="giris" src="https://github.com/mericalp/CI-CD-pipeline-System-with-Ansible-Kubernetes-Tomcat-Maven/assets/83503845/4412e234-65bb-4c19-afe6-4c413e4ea0ab">
 
 
+ex
+Jenkins Ins
+<img width="1000" alt="install jenkins " src="https://github.com/mericalp/CI-CD-pipeline-System-with-Ansible-Kubernetes-Tomcat-Maven/assets/83503845/fba67333-f587-4393-bf8a-322ef88bbab9">
